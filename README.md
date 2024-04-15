@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CODE U Knight**
 
-- 🌱 I’m currently learning **Web 3**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Siddhartha-19?tab=repositories](https://github.com/Siddhartha-19?tab=repositories)
 
