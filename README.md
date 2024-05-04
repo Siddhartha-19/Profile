@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Siddhartha-19?tab=repositories](https://github.com/Siddhartha-19?tab=repositories)
 
-- 💬 Ask me about **Data Structures and Algorithms, System design,Flutter.**
+- 💬 Ask me about **Data Structures and Algorithms, System design,Flutter, Blockchain.**
 
 - 📫 How to reach me **Siddhartha.Neerukonda@gmail.com**
 
